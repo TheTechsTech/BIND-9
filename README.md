@@ -26,3 +26,5 @@ This build setup to use https://github.com/adi90x/rancher-active-proxy
 -l rap.https_method=noredirect \
 ```
 
+### Docker Hub
+https://hub.docker.com/r/technoexpress/bind-9/builds/ automatically builds the latest changes into images which can easily be pulled and ran with a simple `docker run` command. 
